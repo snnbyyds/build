@@ -1,7 +1,7 @@
 From c27165b829c90da36b7de0328d8a39e10c2a5d55 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Mon, 6 Dec 2021 12:45:49 +0530
-Subject: [PATCH 031/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
+Subject: [PATCH 031/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
  support for tas2559 speaker
 
 Configure TAS2559 speaker amplifier which uses i2c5 and gpi_dma0.

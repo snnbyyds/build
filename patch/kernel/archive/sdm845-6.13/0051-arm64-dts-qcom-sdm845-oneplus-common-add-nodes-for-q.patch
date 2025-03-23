@@ -1,7 +1,7 @@
 From 8a1c276981fe0353c118f6339f7116ecc5501ba1 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Sun, 30 Jan 2022 20:26:03 +0000
-Subject: [PATCH 051/142] arm64: dts: qcom: sdm845-oneplus-common: add nodes
+Subject: [PATCH 051/143] arm64: dts: qcom: sdm845-oneplus-common: add nodes
  for q6voice apr service
 
 Signed-off-by: Caleb Connolly <caleb@connolly.tech>

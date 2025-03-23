@@ -1,7 +1,7 @@
 From a08fa7df82d2bf43e7c2349c3a1a5d2cd46e0380 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Thu, 15 Aug 2024 03:14:16 -0500
-Subject: [PATCH 111/142] arch: arm64: dts: qcom: sdm845-xiaomi-beryllium: add
+Subject: [PATCH 111/143] arch: arm64: dts: qcom: sdm845-xiaomi-beryllium: add
  support for imx363 camera
 
 Signed-off-by: Joel Selvaraj <foss@joelselvaraj.com>

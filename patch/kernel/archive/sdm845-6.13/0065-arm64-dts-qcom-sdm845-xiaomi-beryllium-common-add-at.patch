@@ -1,7 +1,7 @@
 From df98b9196a76d309f97a34d731d8a40be6f030dd Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Sun, 13 Aug 2023 19:21:58 +0200
-Subject: [PATCH 065/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
+Subject: [PATCH 065/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
  ath10k calibration variant
 
 SDM845-based Xiaomi POCOPHONE F1 has its own calibration files

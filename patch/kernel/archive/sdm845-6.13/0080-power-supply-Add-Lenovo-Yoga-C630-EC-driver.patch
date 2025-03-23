@@ -1,7 +1,7 @@
 From a5e23675c3f9f51875ecc4f3b5ff4b32f22d5d1d Mon Sep 17 00:00:00 2001
 From: Bjorn Andersson <bjorn.andersson@linaro.org>
 Date: Sun, 5 Feb 2023 17:28:08 +0200
-Subject: [PATCH 080/142] power: supply: Add Lenovo Yoga C630 EC driver
+Subject: [PATCH 080/143] power: supply: Add Lenovo Yoga C630 EC driver
 
 The Qualcomm Snapdragon-based Lenovo Yoga C630 has some sort of EC
 providing AC-adapter and battery status, as well as USB Type-C altmode

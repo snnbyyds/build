@@ -1,7 +1,7 @@
 From c83ef91e4a94ab0eda2a16c9f8cef9aa974454b1 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 14:04:52 +0100
-Subject: [PATCH 092/142] arm64: dts: qcom: sdm845-oneplus: don't mark ts
+Subject: [PATCH 092/143] arm64: dts: qcom: sdm845-oneplus: don't mark ts
  supply boot-on
 
 The touchscreen 1.8v supply doesn't need to be enabled at boot, only

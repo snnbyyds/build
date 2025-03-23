@@ -1,7 +1,7 @@
 From 732f776240131aa87787bae3ce42ddafd93c16cb Mon Sep 17 00:00:00 2001
 From: Dzmitry Sankouski <dsankouski@gmail.com>
 Date: Fri, 1 Sep 2023 15:40:43 +0300
-Subject: [PATCH 074/142] arm64: dts: qcom: starqltechn: cleanup and new
+Subject: [PATCH 074/143] arm64: dts: qcom: starqltechn: cleanup and new
  features
 
 arm64: dts: qcom: starqltechn: remove wifi

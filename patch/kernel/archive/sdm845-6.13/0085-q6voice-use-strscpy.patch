@@ -1,7 +1,7 @@
 From e86f988547d9db0a17d959c1c7d537e2b214209e Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Thu, 25 Jan 2024 15:18:16 +0000
-Subject: [PATCH 085/142] q6voice: use strscpy()
+Subject: [PATCH 085/143] q6voice: use strscpy()
 
 strlcpy() is now gone!
 

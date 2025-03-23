@@ -1,7 +1,7 @@
 From a3fbfb2eafcfec0d48fe62e14cc76d432dc90c1a Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Sat, 30 Sep 2023 17:49:32 +0100
-Subject: [PATCH 009/142] dt-bindings: input: syna,rmi4: document
+Subject: [PATCH 009/143] dt-bindings: input: syna,rmi4: document
  syna,pdt-fallback-desc
 
 This new property allows devices to specify some register values which

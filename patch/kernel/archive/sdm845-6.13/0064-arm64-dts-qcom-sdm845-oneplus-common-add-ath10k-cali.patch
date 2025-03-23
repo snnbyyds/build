@@ -1,7 +1,7 @@
 From bd62bdde28f998f98c0f9e7ddc960b0728ab2593 Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Sun, 13 Aug 2023 19:18:11 +0200
-Subject: [PATCH 064/142] arm64: dts: qcom: sdm845-oneplus-common: add ath10k
+Subject: [PATCH 064/143] arm64: dts: qcom: sdm845-oneplus-common: add ath10k
  calibration variant
 
 SDM845-based Oneplus 6 and 6T have their own calibration files

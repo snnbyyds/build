@@ -1,7 +1,7 @@
 From d9302c2d25f6a62421718473897f779b8f48417c Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Thu, 18 Apr 2024 11:52:05 +0100
-Subject: [PATCH 095/142] drm/panel: samsung-sofef00: drop s6e3fc2x01 support
+Subject: [PATCH 095/143] drm/panel: samsung-sofef00: drop s6e3fc2x01 support
 
 We never properly supported this panel and always used the wrong init
 sequence. Drop support so we can move it to it's own proper driver.

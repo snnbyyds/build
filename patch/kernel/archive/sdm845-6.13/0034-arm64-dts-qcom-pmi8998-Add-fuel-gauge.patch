@@ -1,7 +1,7 @@
 From f17cc9f5fc079a64edc2e3d15ef1e087afb39696 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Fri, 25 Dec 2020 12:56:42 +0530
-Subject: [PATCH 034/142] arm64: dts: qcom: pmi8998: Add fuel gauge
+Subject: [PATCH 034/143] arm64: dts: qcom: pmi8998: Add fuel gauge
 
 Add a node for qcom,pmi8998-fg.
 ---

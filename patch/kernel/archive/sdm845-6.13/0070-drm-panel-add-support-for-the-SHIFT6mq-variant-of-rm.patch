@@ -1,7 +1,7 @@
 From 14d1121de5be969e62169c919d911b63543c4e0a Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Sun, 22 Oct 2023 17:25:19 +0100
-Subject: [PATCH 070/142] drm/panel: add support for the SHIFT6mq variant of
+Subject: [PATCH 070/143] drm/panel: add support for the SHIFT6mq variant of
  rm69299
 
 The SHIFT6mq ships with a Visionox RM69299 panel, however it uses a

@@ -1,7 +1,7 @@
 From 951009f0edc1717886d30abb81a393262e7f440e Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Fri, 16 Aug 2024 09:20:00 -0500
-Subject: [PATCH 118/142] HACK: drm/panel: lg-sw43408: workaround panel not
+Subject: [PATCH 118/143] HACK: drm/panel: lg-sw43408: workaround panel not
  turning on once off
 
 I tried quite a lot of things. Not sure what is causing this. The only

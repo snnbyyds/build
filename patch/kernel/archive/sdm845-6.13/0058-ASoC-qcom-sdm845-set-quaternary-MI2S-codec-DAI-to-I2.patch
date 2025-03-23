@@ -1,7 +1,7 @@
 From 4ae49076d17491341b02e9cb8a4fd28254e0616f Mon Sep 17 00:00:00 2001
 From: "Dr. Git" <drgitx@gmail.com>
 Date: Thu, 20 May 2021 15:35:05 +0000
-Subject: [PATCH 058/142] ASoC: qcom: sdm845: set quaternary MI2S codec DAI to
+Subject: [PATCH 058/143] ASoC: qcom: sdm845: set quaternary MI2S codec DAI to
  I2S format
 
 Required for MAX98927 speaker audio to work on the OnePlus 6.

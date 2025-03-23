@@ -1,7 +1,7 @@
 From 0e5de3815622f73f81611416210fba18d5d6972f Mon Sep 17 00:00:00 2001
 From: Dmitry Baryshkov <dmitry.baryshkov@linaro.org>
 Date: Sat, 30 Mar 2024 05:52:29 +0200
-Subject: [PATCH 091/142] drm/msm/dpu: fix vblank IRQ handling for command
+Subject: [PATCH 091/143] drm/msm/dpu: fix vblank IRQ handling for command
  panels
 
 In case of CMD DSI panels, the vblank IRQ can be used outside of

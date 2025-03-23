@@ -1,7 +1,7 @@
 From 1f57332b42db5906bf58e1d09a123cb11ad1b010 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 14:23:39 +0100
-Subject: [PATCH 097/142] drm/panel: sofef00: don't initialise panel in reset
+Subject: [PATCH 097/143] drm/panel: sofef00: don't initialise panel in reset
 
 During probe when we claim the panel reset GPIO, we currently fetch it
 with GPIOD_OUT_HIGH, this puts the panel into reset which blanks it.

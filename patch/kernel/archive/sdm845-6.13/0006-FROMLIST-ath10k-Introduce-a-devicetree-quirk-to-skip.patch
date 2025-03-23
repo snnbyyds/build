@@ -1,7 +1,7 @@
 From ef9c818c805925adac45b39631072d41fbcd4c37 Mon Sep 17 00:00:00 2001
 From: Amit Pundir <amit.pundir@linaro.org>
 Date: Fri, 25 Sep 2020 23:53:20 +0530
-Subject: [PATCH 006/142] FROMLIST: ath10k: Introduce a devicetree quirk to
+Subject: [PATCH 006/143] FROMLIST: ath10k: Introduce a devicetree quirk to
  skip host cap QMI requests
 
 https://lkml.org/lkml/2020/9/25/1119

@@ -1,7 +1,7 @@
 From 077ab5ee6adf38cbfc9a38fd206b78421806f7cf Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sat, 11 Mar 2023 03:46:55 -0600
-Subject: [PATCH 068/142] arm64: dts: qcom: sdm845-shift-axolotl: fix
+Subject: [PATCH 068/143] arm64: dts: qcom: sdm845-shift-axolotl: fix
  touchscreen properties
 
 Update the touchscreen properties to match with the upstream

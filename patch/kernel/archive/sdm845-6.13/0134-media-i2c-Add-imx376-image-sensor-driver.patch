@@ -1,7 +1,7 @@
 From 4ab4472ed49f39e565c749bb0a70e009ca5e0559 Mon Sep 17 00:00:00 2001
 From: "Dr. Git" <drgitx@gmail.com>
 Date: Tue, 4 Feb 2025 18:01:03 -0500
-Subject: [PATCH 134/142] media: i2c: Add imx376 image sensor driver
+Subject: [PATCH 134/143] media: i2c: Add imx376 image sensor driver
 
 ---
  drivers/media/i2c/Kconfig  |   10 +

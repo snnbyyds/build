@@ -1,7 +1,7 @@
 From 635de40b6689710ee2af89dc0399e52d15c00894 Mon Sep 17 00:00:00 2001
 From: "Dr. Git" <drgitx@gmail.com>
 Date: Mon, 3 Feb 2025 11:50:32 -0500
-Subject: [PATCH 135/142] media: i2c: Add imx519 image sensor driver
+Subject: [PATCH 135/143] media: i2c: Add imx519 image sensor driver
 
 ---
  MAINTAINERS                |    8 +

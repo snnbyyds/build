@@ -1,7 +1,7 @@
 From 2dd7ce02eff861980571957e044ca98f759224c2 Mon Sep 17 00:00:00 2001
 From: Srinivas Kandagatla <srinivas.kandagatla@linaro.org>
 Date: Wed, 25 Oct 2023 16:46:01 +0200
-Subject: [PATCH 082/142] ASoC: codecs: wsa884x: check if set_stream is called
+Subject: [PATCH 082/143] ASoC: codecs: wsa884x: check if set_stream is called
  for proper bus
 
 If multiple WSA8840 speakers, from two separate Soundwire buses, are

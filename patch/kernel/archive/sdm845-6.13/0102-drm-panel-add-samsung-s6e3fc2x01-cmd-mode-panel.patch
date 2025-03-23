@@ -1,7 +1,7 @@
 From aad859f31b6bcf8574942c89ab913754bc4c2ea9 Mon Sep 17 00:00:00 2001
 From: Nia Espera <a5b6@riseup.net>
 Date: Sat, 24 Sep 2022 00:09:45 +0200
-Subject: [PATCH 102/142] drm/panel: add samsung s6e3fc2x01 cmd mode panel
+Subject: [PATCH 102/143] drm/panel: add samsung s6e3fc2x01 cmd mode panel
 
 Adds a dedicated driver for the Samsung s6e3fc2x01 panel used in OnePlus
 6T smartphones which was previously driven by the sofef00 panel driver

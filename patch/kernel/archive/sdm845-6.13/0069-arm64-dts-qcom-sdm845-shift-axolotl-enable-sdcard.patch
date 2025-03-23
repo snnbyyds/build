@@ -1,7 +1,7 @@
 From 76ea5c53e6fff7c19bf5a9b3e3d1c1c15d51d79d Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Fri, 25 Aug 2023 17:00:29 +0100
-Subject: [PATCH 069/142] arm64: dts: qcom: sdm845-shift-axolotl: enable sdcard
+Subject: [PATCH 069/143] arm64: dts: qcom: sdm845-shift-axolotl: enable sdcard
 
 The SHIFT6mq features an sdcard slot, add it.
 

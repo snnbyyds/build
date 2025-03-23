@@ -1,7 +1,7 @@
 From 8163fdb47ba0464a5ee34ed575879ca48f09658b Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Mon, 6 Dec 2021 12:46:30 +0530
-Subject: [PATCH 030/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-tianma:
+Subject: [PATCH 030/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-tianma:
  introduce support for touchscreen
 
 The Tianma variant uses the Novatek NT36xxx touchscreen driver.

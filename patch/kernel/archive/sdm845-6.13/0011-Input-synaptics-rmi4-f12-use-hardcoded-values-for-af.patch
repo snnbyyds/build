@@ -1,7 +1,7 @@
 From 148a506cb1a578d15ae9b0e3eac1012b42b559df Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Wed, 14 Jun 2023 03:15:27 +0900
-Subject: [PATCH 011/142] Input: synaptics-rmi4 - f12: use hardcoded values for
+Subject: [PATCH 011/143] Input: synaptics-rmi4 - f12: use hardcoded values for
  aftermarket touch ICs
 
 Some replacement displays include third-party touch ICs which are

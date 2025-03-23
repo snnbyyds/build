@@ -1,7 +1,7 @@
 From c1406275c1fe83cce0f5fbc1975dcd6fb378aa91 Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Thu, 26 May 2022 21:29:16 +0200
-Subject: [PATCH 055/142] arm64: dts: qcom: sdm845-shift-axolotl: add nodes for
+Subject: [PATCH 055/143] arm64: dts: qcom: sdm845-shift-axolotl: add nodes for
  q6voice apr service
 
 Enable q6voice nodes to allow routing phone call audio to audio devices.

@@ -1,7 +1,7 @@
 From 7515e482fb4337f3206b6b7bfbebe1996f5e7b22 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Fri, 26 Apr 2024 17:18:20 +0200
-Subject: [PATCH 112/142] Input - touchscreen: stm-fts
+Subject: [PATCH 112/143] Input - touchscreen: stm-fts
 
 wip p3 TS driver doesn't build on 6.9
 

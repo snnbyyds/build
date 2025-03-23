@@ -1,7 +1,7 @@
 From 4f90da83a55ee4db5720fd240702986a58afe6ce Mon Sep 17 00:00:00 2001
 From: Steev Klimaszewski <steev@kali.org>
 Date: Thu, 30 Mar 2023 13:00:01 -0500
-Subject: [PATCH 081/142] dts: arm64: qcom: sdm850-c630: enable SLPI
+Subject: [PATCH 081/143] dts: arm64: qcom: sdm850-c630: enable SLPI
 
 Enable the SLPI DSP on the Lenovo Yoga C630 with a Qualcomm SDM850 SoC.
 

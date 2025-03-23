@@ -1,7 +1,7 @@
 From 78046c099ecac74c083f8b769a11538530b46a0e Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 15:26:42 +0100
-Subject: [PATCH 098/142] drm/panel: sofef00: don't use unprepare
+Subject: [PATCH 098/143] drm/panel: sofef00: don't use unprepare
 
 We can't send DSI commands in unprepare, move panel power off handling
 to disable instead.

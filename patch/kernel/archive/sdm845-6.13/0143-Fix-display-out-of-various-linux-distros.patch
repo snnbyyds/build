@@ -1,0 +1,25 @@
+From aa12bd47b18c31142b67e946140f01cb4c8443da Mon Sep 17 00:00:00 2001
+From: J0SH1X <aljoshua.hell@gmail.com>
+Date: Fri, 20 May 2022 11:41:45 +0200
+Subject: [PATCH 143/143] Fix display out of various linux distros
+
+Also plymouth bootscreen works now
+---
+ arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi b/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
+index edffc3f0af..4f41dab259 100644
+--- a/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
++++ b/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
+@@ -66,7 +66,6 @@ aliases {
+ 	};
+ 
+ 	chosen {
+-		stdout-path = "serial0:115200n8";
+ 	};
+ 
+ 	gpio-hall-sensor {
+-- 
+2.49.0
+

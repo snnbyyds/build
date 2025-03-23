@@ -1,7 +1,7 @@
 From e20d2804def0cf9bb5ab7c0e14a7533ade2b3350 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Thu, 17 Jun 2021 07:43:30 +0530
-Subject: [PATCH 026/142] arm64: dts: qcom: sdm845-xiaomi-beryllium: add
+Subject: [PATCH 026/143] arm64: dts: qcom: sdm845-xiaomi-beryllium: add
  haptics
 
 Enable the pmi8998 SPMI haptics driver and configure the play rate for the

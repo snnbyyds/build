@@ -1,7 +1,7 @@
 From 26f9dfad4030de634dbf50f398f95281c29c3965 Mon Sep 17 00:00:00 2001
 From: "Dr. Git" <drgitx@gmail.com>
 Date: Tue, 4 Feb 2025 18:16:10 -0500
-Subject: [PATCH 136/142] arm64: dts: qcom: sdm845-oneplus: camera bringup
+Subject: [PATCH 136/143] arm64: dts: qcom: sdm845-oneplus: camera bringup
 
 ---
  .../boot/dts/qcom/sdm845-oneplus-common.dtsi  | 480 ++++++++++++++++++

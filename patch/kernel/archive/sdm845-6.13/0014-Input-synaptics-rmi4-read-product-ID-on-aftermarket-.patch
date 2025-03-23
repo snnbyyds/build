@@ -1,7 +1,7 @@
 From 82fe303c7f54855d3e16c38c6156d15938bd0201 Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Wed, 14 Jun 2023 03:15:28 +0900
-Subject: [PATCH 014/142] Input: synaptics-rmi4 - read product ID on
+Subject: [PATCH 014/143] Input: synaptics-rmi4 - read product ID on
  aftermarket touch ICs
 
 Some replacement displays include third-party touch ICs which do not

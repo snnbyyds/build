@@ -1,7 +1,7 @@
 From b3df5bfc80bc9d63a083acd455b0765e813b1aed Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 12:27:51 +0100
-Subject: [PATCH 090/142] HACK: arm64: dts: qcom: sdm845: disable qcrypto
+Subject: [PATCH 090/143] HACK: arm64: dts: qcom: sdm845: disable qcrypto
 
 The qcrypto driver has regressed on SDM845, any attempts to use it
 result in an instant hard-crash and the device either resets or goes to

@@ -1,7 +1,7 @@
 From 63247f12e2b8931a59801b75a2fc191578303e2f Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Fri, 13 Dec 2024 02:05:05 +0100
-Subject: [PATCH 127/142] sdm845.config: ZRAM zstd and modules compression
+Subject: [PATCH 127/143] sdm845.config: ZRAM zstd and modules compression
 
 Signed-off-by: Caleb Connolly <caleb.connolly@linaro.org>
 ---

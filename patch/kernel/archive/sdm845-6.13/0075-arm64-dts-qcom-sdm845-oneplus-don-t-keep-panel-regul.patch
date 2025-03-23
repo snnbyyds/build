@@ -1,7 +1,7 @@
 From 80df812dab0809a9327a0a6f78deae810d160928 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Tue, 21 Nov 2023 05:17:43 +0000
-Subject: [PATCH 075/142] arm64: dts: qcom: sdm845-oneplus: don't keep panel
+Subject: [PATCH 075/143] arm64: dts: qcom: sdm845-oneplus: don't keep panel
  regulator always on
 
 the panel regulator doesn't need to be always on, so remove this

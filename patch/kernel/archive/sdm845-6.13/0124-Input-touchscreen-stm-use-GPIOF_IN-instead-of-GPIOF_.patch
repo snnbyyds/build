@@ -1,7 +1,7 @@
 From b154bd01a5995079857dd90834f8bdbcff3f8402 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Mon, 30 Sep 2024 14:50:40 -0500
-Subject: [PATCH 124/142] Input: touchscreen: stm: use GPIOF_IN instead of
+Subject: [PATCH 124/143] Input: touchscreen: stm: use GPIOF_IN instead of
  GPIOF_DIR_IN
 
 Due to patch series: https://lore.kernel.org/lkml/20240828142554.2424189-1-andriy.shevchenko@linux.intel.com/T/#m0044cb95f05e14cb4332b01f852dbd090a28a0cb

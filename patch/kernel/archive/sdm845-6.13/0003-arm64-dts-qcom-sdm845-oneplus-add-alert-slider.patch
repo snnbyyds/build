@@ -1,7 +1,7 @@
 From cd63cbfb3231add20d5fd6b7edcc0f00c60d825d Mon Sep 17 00:00:00 2001
 From: Gergo Koteles <soyer@irl.hu>
 Date: Wed, 22 Feb 2023 01:10:34 +0100
-Subject: [PATCH 003/142] arm64: dts: qcom: sdm845-oneplus: add alert-slider
+Subject: [PATCH 003/143] arm64: dts: qcom: sdm845-oneplus: add alert-slider
 
 The alert-slider is a tri-state sound profile switch found on the OnePlus 6,
 Android maps the states to "silent", "vibrate" and "ring". Expose them as

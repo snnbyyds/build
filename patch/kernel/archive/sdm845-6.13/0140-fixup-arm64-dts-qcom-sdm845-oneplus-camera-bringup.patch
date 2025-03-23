@@ -1,7 +1,7 @@
 From 0f40e533f46c66956ae22d533aba8b5b24ef47c7 Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Wed, 5 Feb 2025 14:19:56 +0100
-Subject: [PATCH 140/142] fixup! arm64: dts: qcom: sdm845-oneplus: camera
+Subject: [PATCH 140/143] fixup! arm64: dts: qcom: sdm845-oneplus: camera
  bringup
 
 Signed-off-by: David Heidelberg <david@ixit.cz>

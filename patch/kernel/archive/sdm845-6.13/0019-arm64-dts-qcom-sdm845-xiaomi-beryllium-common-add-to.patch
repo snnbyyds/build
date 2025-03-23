@@ -1,7 +1,7 @@
 From 39d16ba3a2dccbf32b6b0a7c726f97301e38ee6e Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sat, 11 Mar 2023 03:03:50 -0600
-Subject: [PATCH 019/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
+Subject: [PATCH 019/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-common: add
  touchscreen related nodes
 
 Enable qupv3_id_1 and gpi_dma1 as they are required for configuring

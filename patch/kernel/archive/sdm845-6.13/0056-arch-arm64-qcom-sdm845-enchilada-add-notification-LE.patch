@@ -1,7 +1,7 @@
 From 5783df551263cbf31bcf2149caf96088c6edc602 Mon Sep 17 00:00:00 2001
 From: Antonio Rische <nt8r@protonmail.com>
 Date: Fri, 1 Jul 2022 17:39:36 +0000
-Subject: [PATCH 056/142] arch: arm64: qcom: sdm845-enchilada: add notification
+Subject: [PATCH 056/143] arch: arm64: qcom: sdm845-enchilada: add notification
  LED
 
 The R/G/B LEDs are managed by the pmi8998 LPG.

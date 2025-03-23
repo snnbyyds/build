@@ -1,7 +1,7 @@
 From 7c8e4741e0f4b333af2624c052316e3bb12845be Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:11:53 +0200
-Subject: [PATCH 041/142] ASoC: qdsp6: Add driver for Q6 Core Voice Stream
+Subject: [PATCH 041/143] ASoC: qdsp6: Add driver for Q6 Core Voice Stream
  (q6cvs)
 
 This is just a stub for now. Later this would be used for features

@@ -1,7 +1,7 @@
 From 6d0307fdb2fd7bca020c45e948da6f2339e54b06 Mon Sep 17 00:00:00 2001
 From: Amit Pundir <amit.pundir@linaro.org>
 Date: Sat, 26 Sep 2020 00:08:29 +0530
-Subject: [PATCH 021/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-common:
+Subject: [PATCH 021/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-common:
  Enable ath10k host-cap skip quirk
 
 The WiFi firmware used on Beryllium (Xiaomi Poco F1) phone

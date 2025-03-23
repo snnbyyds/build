@@ -1,7 +1,7 @@
 From 7bbe184eb0f0aba70a3f220dd29b8693752fb15e Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 15:29:11 +0100
-Subject: [PATCH 099/142] drm/panel: sofef00: fix panel name
+Subject: [PATCH 099/143] drm/panel: sofef00: fix panel name
 
 This isn't the OnePlus 6 panel driver... it's the sofef00 panel driver.
 

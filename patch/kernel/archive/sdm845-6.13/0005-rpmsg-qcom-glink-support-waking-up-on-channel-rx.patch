@@ -1,7 +1,7 @@
 From 43622a5ea83cd16c810dad273661afafe4fe013f Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Tue, 17 Jan 2023 13:47:11 +0000
-Subject: [PATCH 005/142] rpmsg: qcom: glink: support waking up on channel rx
+Subject: [PATCH 005/143] rpmsg: qcom: glink: support waking up on channel rx
 
 Configure all channels as wakeup capable and report a wakeup event
 when data is received.

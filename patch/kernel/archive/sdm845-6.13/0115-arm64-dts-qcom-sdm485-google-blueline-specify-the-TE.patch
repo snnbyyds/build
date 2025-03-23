@@ -1,7 +1,7 @@
 From a9c0cb97468753bca52275f8f9da3fd5398ad98d Mon Sep 17 00:00:00 2001
 From: Dmitry Baryshkov <dmitry.baryshkov@linaro.org>
 Date: Tue, 14 May 2024 15:50:48 +0300
-Subject: [PATCH 115/142] arm64: dts: qcom: sdm485-google-blueline: specify the
+Subject: [PATCH 115/143] arm64: dts: qcom: sdm485-google-blueline: specify the
  TE signal
 
 The Google Pixel 3 device uses a non-default pin to communicate the

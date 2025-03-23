@@ -1,7 +1,7 @@
 From 34e64f91c654a25b380b5b30c9ad7495adaf42ef Mon Sep 17 00:00:00 2001
 From: Rob Clark <robdclark@chromium.org>
 Date: Mon, 18 Dec 2023 07:59:24 -0800
-Subject: [PATCH 083/142] drm/msm/a6xx: Fix recovery vs runpm race
+Subject: [PATCH 083/143] drm/msm/a6xx: Fix recovery vs runpm race
 
 a6xx_recover() is relying on the gpu lock to serialize against incoming
 submits doing a runpm get, as it tries to temporarily balance out the

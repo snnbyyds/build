@@ -1,7 +1,7 @@
 From fa7582e370dc11b349b7f31aa0bd1ac796017561 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joel.devbox@protonmail.com>
 Date: Wed, 17 Jun 2020 23:14:58 +0530
-Subject: [PATCH 028/142] ASoC: codecs: tas2559: Add initial tas2559 audio
+Subject: [PATCH 028/143] ASoC: codecs: tas2559: Add initial tas2559 audio
  amplifier codec
 
 Introduce the TAS2559 audio codec.

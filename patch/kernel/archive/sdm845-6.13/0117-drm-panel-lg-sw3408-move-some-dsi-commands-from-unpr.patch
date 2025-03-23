@@ -1,7 +1,7 @@
 From 9dd77db530e7235810c9f89db1060547f89271f9 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Fri, 16 Aug 2024 06:49:39 -0500
-Subject: [PATCH 117/142] drm/panel: lg-sw3408: move some dsi commands from
+Subject: [PATCH 117/143] drm/panel: lg-sw3408: move some dsi commands from
  unprepare to disable
 
 ---

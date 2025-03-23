@@ -1,7 +1,7 @@
 From 2c162599c63704277ea6557692a08ddcf2ddaeeb Mon Sep 17 00:00:00 2001
 From: Bjorn Andersson <bjorn.andersson@linaro.org>
 Date: Sun, 5 Feb 2023 17:28:07 +0200
-Subject: [PATCH 079/142] dt-bindings: power: supply: Add Lenovo Yoga C630 EC
+Subject: [PATCH 079/143] dt-bindings: power: supply: Add Lenovo Yoga C630 EC
 
 Add binding for the Embedded Controller found in the Qualcomm
 Snapdragon-based Lenovo Yoga C630.

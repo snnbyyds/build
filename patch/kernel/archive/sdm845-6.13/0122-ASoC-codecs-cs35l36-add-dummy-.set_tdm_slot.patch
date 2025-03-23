@@ -1,7 +1,7 @@
 From 42e502d4cd83f7cc7bb5faacdb328af5ec87c397 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Tue, 27 Aug 2024 21:49:05 -0500
-Subject: [PATCH 122/142] ASoC: codecs: cs35l36: add dummy .set_tdm_slot
+Subject: [PATCH 122/143] ASoC: codecs: cs35l36: add dummy .set_tdm_slot
 
 Required by certain machine drivers like the sound/qcom/sdm845.c. Since the tdm slots are
 kind of configured through kcontrol such as "Channel Mux" and "ASPTX1SRC" etc, we simply

@@ -1,7 +1,7 @@
 From 3dbda61f0b7825f1481671b3c845bd49953e2b48 Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:14:50 +0200
-Subject: [PATCH 043/142] ASoC: qdsp6: Add Q6 Voice DAI driver (v2)
+Subject: [PATCH 043/143] ASoC: qdsp6: Add Q6 Voice DAI driver (v2)
 
 The Q6 Voice DAI driver exposes the Q6 Voice subsystem to ASoC.
 At the moment it provides a single CS-Voice DAI with a hostless FE.

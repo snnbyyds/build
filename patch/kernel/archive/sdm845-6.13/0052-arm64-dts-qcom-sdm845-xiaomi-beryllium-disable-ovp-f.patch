@@ -1,7 +1,7 @@
 From 7ecbbd30ea06fa8eeccc52f263f8c209429d8bec Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Mon, 23 May 2022 17:03:32 +0530
-Subject: [PATCH 052/142] arm64: dts: qcom: sdm845-xiaomi-beryllium: disable
+Subject: [PATCH 052/143] arm64: dts: qcom: sdm845-xiaomi-beryllium: disable
  ovp for lab regulator
 
 In EBBG variant, the lab regulator's ovp get's triggered only once

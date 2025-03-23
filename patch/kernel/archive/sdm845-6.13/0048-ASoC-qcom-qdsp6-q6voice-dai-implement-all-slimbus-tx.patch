@@ -1,7 +1,7 @@
 From ff57f8ce730f598604dafb6dab4fa0b29488e3a6 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sun, 2 Oct 2022 02:10:51 -0500
-Subject: [PATCH 048/142] ASoC: qcom: qdsp6: q6voice-dai: implement all slimbus
+Subject: [PATCH 048/143] ASoC: qcom: qdsp6: q6voice-dai: implement all slimbus
  tx and rx
 
 Useful when multiple slimbus are used by the device.

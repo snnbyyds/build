@@ -1,7 +1,7 @@
 From 538f71876201ed1eb1783d784e6750d8f463455c Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Sat, 12 Jun 2021 13:30:54 +0100
-Subject: [PATCH 022/142] dt-bindings: input: add Qualcomm SPMI haptics driver
+Subject: [PATCH 022/143] dt-bindings: input: add Qualcomm SPMI haptics driver
 
 Add bindings for qcom PMIC SPMI haptics driver.
 
