@@ -1,0 +1,29 @@
+From 7be592f0ceb8b853a963e7dd2150783eec663107 Mon Sep 17 00:00:00 2001
+From: Caleb Connolly <caleb.connolly@linaro.org>
+Date: Sun, 22 Oct 2023 18:03:48 +0100
+Subject: [PATCH 071/142] arm64: dts: qcom: sdm845-shift-axolotl: fix panel
+ reset orientation
+
+The panel reset GPIO is active low, not active high. Fix it.
+
+Signed-off-by: Caleb Connolly <caleb.connolly@linaro.org>
+---
+ arch/arm64/boot/dts/qcom/sdm845-shift-axolotl.dts | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/arch/arm64/boot/dts/qcom/sdm845-shift-axolotl.dts b/arch/arm64/boot/dts/qcom/sdm845-shift-axolotl.dts
+index 8002cc1a84..a562fa3ce3 100644
+--- a/arch/arm64/boot/dts/qcom/sdm845-shift-axolotl.dts
++++ b/arch/arm64/boot/dts/qcom/sdm845-shift-axolotl.dts
+@@ -501,7 +501,7 @@ panel@0 {
+ 		#address-cells = <1>;
+ 		#size-cells = <0>;
+ 
+-		reset-gpios = <&tlmm 6 GPIO_ACTIVE_HIGH>;
++		reset-gpios = <&tlmm 6 GPIO_ACTIVE_LOW>;
+ 
+ 		pinctrl-names = "default", "sleep";
+ 		pinctrl-0 = <&sde_dsi_active &sde_te_active>;
+-- 
+2.49.0
+

@@ -1,0 +1,26 @@
+From 2e203f8bfbebc29010825bca34c65a5c8a51dcb6 Mon Sep 17 00:00:00 2001
+From: Caleb Connolly <caleb.connolly@linaro.org>
+Date: Wed, 7 Feb 2024 17:46:39 +0000
+Subject: [PATCH 087/142] arm64: dts: qcom: sdm845-oneplus: missing flash leds
+ include
+
+Signed-off-by: Caleb Connolly <caleb.connolly@linaro.org>
+---
+ arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi b/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
+index 55880af810..f4dd0712f6 100644
+--- a/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
++++ b/arch/arm64/boot/dts/qcom/sdm845-oneplus-common.dtsi
+@@ -13,6 +13,7 @@
+ #include <dt-bindings/sound/qcom,q6afe.h>
+ #include <dt-bindings/sound/qcom,q6asm.h>
+ #include <dt-bindings/sound/qcom,q6voice.h>
++#include <dt-bindings/leds/common.h>
+ 
+ #include "sdm845.dtsi"
+ #include "sdm845-wcd9340.dtsi"
+-- 
+2.49.0
+

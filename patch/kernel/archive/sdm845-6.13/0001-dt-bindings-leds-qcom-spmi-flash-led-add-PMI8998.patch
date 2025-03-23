@@ -1,0 +1,33 @@
+From 76887964c02823230320956103e503e972f14242 Mon Sep 17 00:00:00 2001
+From: Dylan Van Assche <me@dylanvanassche.be>
+Date: Thu, 18 May 2023 15:31:11 +0200
+Subject: [PATCH 001/142] dt-bindings: leds: qcom,spmi-flash-led: add PMI8998
+
+Document compatible for PMI8998 Torch and Flash LED controller.
+
+Signed-off-by: Dylan Van Assche <me@dylanvanassche.be>
+Acked-by: Krzysztof Kozlowski <krzysztof.kozlowski@linaro.org>
+---
+ Documentation/devicetree/bindings/leds/qcom,spmi-flash-led.yaml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Documentation/devicetree/bindings/leds/qcom,spmi-flash-led.yaml b/Documentation/devicetree/bindings/leds/qcom,spmi-flash-led.yaml
+index 1ba607685f..7868569ab6 100644
+--- a/Documentation/devicetree/bindings/leds/qcom,spmi-flash-led.yaml
++++ b/Documentation/devicetree/bindings/leds/qcom,spmi-flash-led.yaml
+@@ -23,11 +23,11 @@ properties:
+     items:
+       - enum:
+           - qcom,pm6150l-flash-led
++          - qcom,pmi8998-flash-led
+           - qcom,pm8150c-flash-led
+           - qcom,pm8150l-flash-led
+           - qcom,pm8350c-flash-led
+           - qcom,pm8550-flash-led
+-          - qcom,pmi8998-flash-led
+       - const: qcom,spmi-flash-led
+ 
+   reg:
+-- 
+2.49.0
+
