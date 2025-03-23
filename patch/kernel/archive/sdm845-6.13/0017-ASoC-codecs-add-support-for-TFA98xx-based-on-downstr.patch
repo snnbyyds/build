@@ -1,7 +1,7 @@
 From 90a2f61920c2daa5a1179b9cf385cb98ef15cf5f Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Fri, 8 Jul 2022 21:13:02 +0200
-Subject: [PATCH 017/143] ASoC: codecs: add support for TFA98xx based on
+Subject: [PATCH 017/142] ASoC: codecs: add support for TFA98xx based on
  downstream
 
 Temporary solution, until proper driver gets into mainline!

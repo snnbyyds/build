@@ -1,7 +1,7 @@
 From 4536b03f28264739ee1f48e937b2f5c97c4b7d62 Mon Sep 17 00:00:00 2001
 From: biemster <l.j.beemster@gmail.com>
 Date: Fri, 6 Dec 2024 15:41:53 +0000
-Subject: [PATCH 126/143] Assign i2c3 and pins 12,62,63 to NFC
+Subject: [PATCH 126/142] Assign i2c3 and pins 12,62,63 to NFC
 
 ---
  .../boot/dts/qcom/sdm845-oneplus-common.dtsi  | 31 +++++++++++++++++++

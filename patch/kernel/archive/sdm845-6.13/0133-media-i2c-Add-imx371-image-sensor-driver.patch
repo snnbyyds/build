@@ -1,7 +1,7 @@
 From 490a91de1edae47895df598e5d020f518a4705b4 Mon Sep 17 00:00:00 2001
 From: "Dr. Git" <drgitx@gmail.com>
 Date: Tue, 4 Feb 2025 18:28:48 -0500
-Subject: [PATCH 133/143] media: i2c: Add imx371 image sensor driver
+Subject: [PATCH 133/142] media: i2c: Add imx371 image sensor driver
 
 ---
  drivers/media/i2c/Kconfig  |   10 +

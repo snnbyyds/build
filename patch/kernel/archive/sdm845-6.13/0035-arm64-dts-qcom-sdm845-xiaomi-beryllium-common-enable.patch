@@ -1,7 +1,7 @@
 From ccf1924ba34089c933567d8972e084b1dad79c5f Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Fri, 10 Mar 2023 02:42:33 -0600
-Subject: [PATCH 035/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-common:
+Subject: [PATCH 035/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-common:
  enable fuel guage
 
 Signed-off-by: Joel Selvaraj <foss@joelselvaraj.com>

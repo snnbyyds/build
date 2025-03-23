@@ -1,7 +1,7 @@
 From 3f68dc794494566b34b0e1960b295844421654aa Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Tue, 30 Nov 2021 22:11:39 +0000
-Subject: [PATCH 037/143] arm64: dts: qcom: sdm845-axolotl: enable fuel gauge
+Subject: [PATCH 037/142] arm64: dts: qcom: sdm845-axolotl: enable fuel gauge
 
 Enable the fuel gauge and configure the associated charger and battery.
 

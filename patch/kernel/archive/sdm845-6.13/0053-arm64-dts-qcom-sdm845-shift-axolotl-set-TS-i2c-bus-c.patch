@@ -1,7 +1,7 @@
 From 91f327c30a9f4c50bd739d2c8cc6a8377cc3be51 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Mon, 30 May 2022 14:41:56 +0100
-Subject: [PATCH 053/143] arm64: dts: qcom: sdm845-shift-axolotl: set TS i2c
+Subject: [PATCH 053/142] arm64: dts: qcom: sdm845-shift-axolotl: set TS i2c
  bus clock
 
 Avoids the message "geni_i2c 894000.i2c: Bus frequency not specified, default to 100kHz."

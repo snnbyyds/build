@@ -1,7 +1,7 @@
 From 1f7b6005ae3b45c498ba24952a11ff25c193e50a Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Fri, 8 Sep 2023 11:26:20 +0000
-Subject: [PATCH 015/143] Input: synaptics-rmi4 - support fallback values for
+Subject: [PATCH 015/142] Input: synaptics-rmi4 - support fallback values for
  PDT descriptor bytes
 
 Some replacement displays include third-party touch ICs which do not

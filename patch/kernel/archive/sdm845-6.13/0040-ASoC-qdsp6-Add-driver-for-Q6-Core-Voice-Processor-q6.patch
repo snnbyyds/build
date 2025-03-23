@@ -1,7 +1,7 @@
 From eb79b34c9423be752b1eaa09a2afb98ae560b77b Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:11:12 +0200
-Subject: [PATCH 040/143] ASoC: qdsp6: Add driver for Q6 Core Voice Processor
+Subject: [PATCH 040/142] ASoC: qdsp6: Add driver for Q6 Core Voice Processor
  (q6cvp)
 
 ---

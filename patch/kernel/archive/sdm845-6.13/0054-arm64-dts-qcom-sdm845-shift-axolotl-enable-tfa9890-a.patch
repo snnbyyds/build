@@ -1,7 +1,7 @@
 From 628aa7825d6905cb4a43a4c886d9795946dc17dc Mon Sep 17 00:00:00 2001
 From: Alexander Martinz <amartinz@shiftphones.com>
 Date: Tue, 18 Jan 2022 17:43:22 +0100
-Subject: [PATCH 054/143] arm64: dts: qcom: sdm845-shift-axolotl: enable
+Subject: [PATCH 054/142] arm64: dts: qcom: sdm845-shift-axolotl: enable
  tfa9890 and sound
 
 Signed-off-by: Alexander Martinz <amartinz@shiftphones.com>

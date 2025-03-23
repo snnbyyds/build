@@ -1,7 +1,7 @@
 From 73839e2992f9f2e3e091fe8515a28db610c64338 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Thu, 25 Jan 2024 15:18:42 +0000
-Subject: [PATCH 086/143] NEXTHACK: sound: soc: wsa884x: compile error
+Subject: [PATCH 086/142] NEXTHACK: sound: soc: wsa884x: compile error
 
 Signed-off-by: Caleb Connolly <caleb.connolly@linaro.org>
 ---

@@ -1,7 +1,7 @@
 From 76887964c02823230320956103e503e972f14242 Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Thu, 18 May 2023 15:31:11 +0200
-Subject: [PATCH 001/143] dt-bindings: leds: qcom,spmi-flash-led: add PMI8998
+Subject: [PATCH 001/142] dt-bindings: leds: qcom,spmi-flash-led: add PMI8998
 
 Document compatible for PMI8998 Torch and Flash LED controller.
 

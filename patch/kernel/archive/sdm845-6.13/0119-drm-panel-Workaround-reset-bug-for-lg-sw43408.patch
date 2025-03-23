@@ -1,7 +1,7 @@
 From fe90cedf4793be5103cc37f7ff930bb8d08d1d5b Mon Sep 17 00:00:00 2001
 From: Victoria Brekenfeld <github@drakulix.de>
 Date: Sun, 28 Apr 2024 23:04:41 +0200
-Subject: [PATCH 119/143] drm: panel: Workaround reset-bug for lg-sw43408
+Subject: [PATCH 119/142] drm: panel: Workaround reset-bug for lg-sw43408
 
 ---
  .../boot/dts/qcom/sdm845-google-blueline.dts  | 10 ++++

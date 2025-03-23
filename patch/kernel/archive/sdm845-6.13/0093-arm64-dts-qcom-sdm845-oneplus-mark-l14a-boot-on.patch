@@ -1,7 +1,7 @@
 From 246dabf17d92c7a4d4582853ea331753d6d6712c Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 14:10:43 +0100
-Subject: [PATCH 093/143] arm64: dts: qcom: sdm845-oneplus: mark l14a boot-on
+Subject: [PATCH 093/142] arm64: dts: qcom: sdm845-oneplus: mark l14a boot-on
 
 This regulator is used only for the display, which is enabled by the
 bootloader and left on for continuous splash. Mark it as such.

@@ -1,7 +1,7 @@
 From afb1f53747f865ea1cbf93b0fbac6987f8c52c06 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Tue, 27 Aug 2024 21:25:16 -0500
-Subject: [PATCH 121/143] ASoC: codecs: cs35l36: include SND_SOC_DAIFMT_DSP_B
+Subject: [PATCH 121/142] ASoC: codecs: cs35l36: include SND_SOC_DAIFMT_DSP_B
  support
 
 Tested in Google Pixel 3. Both SND_SOC_DAIFMT_DSP_A and SND_SOC_DAIFMT_DSP_B works fine.

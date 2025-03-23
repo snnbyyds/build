@@ -1,7 +1,7 @@
 From a5f467e449f865888db9cf22d921a031672f429e Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Sat, 7 Dec 2024 23:25:03 -0500
-Subject: [PATCH 130/143] media: qcom: camss: csiphy-3ph: Add Gen2 v1.1 MIPI
+Subject: [PATCH 130/142] media: qcom: camss: csiphy-3ph: Add Gen2 v1.1 MIPI
  CSI-2 CPHY init
 
 Add a PHY configuration sequence for the sdm845 which uses a Qualcomm

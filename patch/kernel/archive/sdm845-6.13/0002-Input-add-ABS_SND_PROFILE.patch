@@ -1,7 +1,7 @@
 From 48caa187ab5c02f8f329312e656f5e26e0e4f581 Mon Sep 17 00:00:00 2001
 From: Gergo Koteles <soyer@irl.hu>
 Date: Wed, 22 Feb 2023 01:10:33 +0100
-Subject: [PATCH 002/143] Input: add ABS_SND_PROFILE
+Subject: [PATCH 002/142] Input: add ABS_SND_PROFILE
 
 ABS_SND_PROFILE used to describe the state of a multi-value sound profile
 switch. This will be used for the alert-slider on OnePlus phones or other

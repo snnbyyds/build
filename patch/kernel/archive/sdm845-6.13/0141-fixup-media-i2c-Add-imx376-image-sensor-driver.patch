@@ -1,7 +1,7 @@
 From d2b58adc310202a5d1cdfe55832f5689fe0929f1 Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Sun, 9 Feb 2025 19:15:47 +0100
-Subject: [PATCH 141/143] fixup media: i2c: Add imx376 image sensor driver
+Subject: [PATCH 141/142] fixup media: i2c: Add imx376 image sensor driver
 
 Signed-off-by: David Heidelberg <david@ixit.cz>
 ---

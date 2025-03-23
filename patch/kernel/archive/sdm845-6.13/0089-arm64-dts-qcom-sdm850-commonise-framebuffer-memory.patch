@@ -1,7 +1,7 @@
 From 164336cdbcdad35045f3b5e682e970f9330dad94 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Tue, 31 Jan 2023 12:19:19 +0000
-Subject: [PATCH 089/143] arm64: dts: qcom: sdm850: commonise framebuffer
+Subject: [PATCH 089/142] arm64: dts: qcom: sdm850: commonise framebuffer
  memory
 
 Both the Galaxy Book2 and C630 use the same address and size for the

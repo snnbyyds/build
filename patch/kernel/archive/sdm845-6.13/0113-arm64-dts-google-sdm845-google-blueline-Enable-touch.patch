@@ -1,7 +1,7 @@
 From 5299ed56512694a70ea8730df764a89861488eb7 Mon Sep 17 00:00:00 2001
 From: Victoria Brekenfeld <github@drakulix.de>
 Date: Sun, 28 Apr 2024 16:15:12 +0200
-Subject: [PATCH 113/143] arm64: dts: google: sdm845-google-blueline: Enable
+Subject: [PATCH 113/142] arm64: dts: google: sdm845-google-blueline: Enable
  touchscreen
 
 ---

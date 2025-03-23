@@ -1,7 +1,7 @@
 From 00f72a51d17df062684b8a2a7eb8d03d86e96d87 Mon Sep 17 00:00:00 2001
 From: Vladimir Zapolskiy <vladimir.zapolskiy@linaro.org>
 Date: Mon, 23 Sep 2024 10:28:26 +0300
-Subject: [PATCH 129/143] arm64: dts: qcom: sdm845: Fix interrupt types of
+Subject: [PATCH 129/142] arm64: dts: qcom: sdm845: Fix interrupt types of
  camss interrupts
 
 The expected type of all CAMSS interrupts is edge rising, fix it in

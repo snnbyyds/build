@@ -1,7 +1,7 @@
 From 4a19f82da41e07562e719bd831a38887dfa44281 Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Fri, 8 Sep 2023 11:26:21 +0000
-Subject: [PATCH 008/143] arm64: dts: qcom: sdm845-oneplus-common: add PDT
+Subject: [PATCH 008/142] arm64: dts: qcom: sdm845-oneplus-common: add PDT
  override values
 
 Provide the values of the function number and interrupt status

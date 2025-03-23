@@ -1,7 +1,7 @@
 From fab0f683099a062103fdd5e8beb6b78f6749867f Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Mon, 6 May 2024 03:39:40 +0200
-Subject: [PATCH 106/143] Revert "drm/msm/dpu: fix vblank IRQ handling for
+Subject: [PATCH 106/142] Revert "drm/msm/dpu: fix vblank IRQ handling for
  command panels"
 
 This reverts commit 63c992f6ac24da114db0a9ac97a815d86ca24dd0.

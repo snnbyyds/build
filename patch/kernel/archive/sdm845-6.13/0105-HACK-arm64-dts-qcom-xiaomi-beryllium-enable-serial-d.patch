@@ -1,7 +1,7 @@
 From 6eb72e97c70c20ec3b1e7d9e58ce9b7110e68bc3 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Thu, 2 May 2024 22:49:47 +0000
-Subject: [PATCH 105/143] HACK: arm64: dts: qcom: xiaomi-beryllium: enable
+Subject: [PATCH 105/142] HACK: arm64: dts: qcom: xiaomi-beryllium: enable
  serial debug
 
 Marked as hack because it adds a 2s delay during the boot up process which helps workaround the random display failure during some reboots.

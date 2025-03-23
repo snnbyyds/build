@@ -1,7 +1,7 @@
 From 8752ae2abd6ef141014c48885e93a5bca5d9ffec Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Sun, 8 Dec 2024 00:39:45 -0500
-Subject: [PATCH 132/143] media: qcom: camss: Prepare CSID for C-PHY support
+Subject: [PATCH 132/142] media: qcom: camss: Prepare CSID for C-PHY support
 
 CSI2_RX_CFG0_PHY_TYPE_SEL must be set to 1, when C-PHY mode is used.
 

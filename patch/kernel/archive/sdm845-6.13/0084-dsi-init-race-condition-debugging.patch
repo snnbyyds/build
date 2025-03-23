@@ -1,7 +1,7 @@
 From 0ac07e25b986742287f17c2133aecc6066da8851 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 24 Jan 2024 12:07:05 +0000
-Subject: [PATCH 084/143] dsi init race condition debugging
+Subject: [PATCH 084/142] dsi init race condition debugging
 
 Signed-off-by: Caleb Connolly <caleb.connolly@linaro.org>
 ---

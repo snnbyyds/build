@@ -1,7 +1,7 @@
 From fdde023430c07896eec6696dfee7abf49d1cc7b9 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sun, 4 Dec 2022 16:34:43 -0600
-Subject: [PATCH 060/143] ASoC: codecs: wcd934x: fix wcd->micb2_mv being read
+Subject: [PATCH 060/142] ASoC: codecs: wcd934x: fix wcd->micb2_mv being read
  before assigned
 
 ---

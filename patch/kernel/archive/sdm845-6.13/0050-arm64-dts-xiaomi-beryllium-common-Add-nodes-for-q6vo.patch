@@ -1,7 +1,7 @@
 From 0f83e3024690e71379bd06028d0acf8942d02edb Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Sun, 6 Jun 2021 04:31:54 +0530
-Subject: [PATCH 050/143] arm64: dts: xiaomi-beryllium-common: Add nodes for
+Subject: [PATCH 050/142] arm64: dts: xiaomi-beryllium-common: Add nodes for
  q6voice apr service
 
 ---

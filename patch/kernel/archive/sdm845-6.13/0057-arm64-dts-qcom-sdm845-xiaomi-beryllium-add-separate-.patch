@@ -1,7 +1,7 @@
 From 65e2e703838af72b2a8e1983099c3b3eb4fb93e3 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sat, 10 Sep 2022 21:38:41 -0500
-Subject: [PATCH 057/143] arm64: dts: qcom: sdm845-xiaomi-beryllium: add
+Subject: [PATCH 057/142] arm64: dts: qcom: sdm845-xiaomi-beryllium: add
  separate dai link for headphone mic
 
 We can use existing multimedia+slimbus dai link for headphones mic too.

@@ -1,7 +1,7 @@
 From 786493fcae1d3ea9967c770610227d205192dad1 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Tue, 27 Aug 2024 20:26:01 -0500
-Subject: [PATCH 120/143] ASoC: qcom: sdm845: set codec dai and component
+Subject: [PATCH 120/142] ASoC: qcom: sdm845: set codec dai and component
  sysclk during startup
 
 The cs35l36 codec needs the codec dai and component sysclk to be set here.

@@ -1,7 +1,7 @@
 From a51dcd5c6c1dc7717be31e04ca3a3930b703cada Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 15:31:06 +0100
-Subject: [PATCH 100/143] drm/panel: sofef00: proper power sequencing
+Subject: [PATCH 100/142] drm/panel: sofef00: proper power sequencing
 
 There are two additional regulators on this panel, vci and poc. Use the
 regulator bulk API to fetch and enable all regulators at once.

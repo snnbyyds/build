@@ -1,7 +1,7 @@
 From b78e09db6b6046b16afe4f554ff21eac90a46dde Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sat, 11 Mar 2023 03:46:55 -0600
-Subject: [PATCH 020/143] arm64: dts: qcom: sdm845-shift-axolotl: update
+Subject: [PATCH 020/142] arm64: dts: qcom: sdm845-shift-axolotl: update
  focaltech touchscreen properties
 
 The touchscreen nodes were added before the driver patches were merged.

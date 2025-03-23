@@ -1,7 +1,7 @@
 From 7e49235bf391164cf9a74da1a47faf8e2afb7383 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Thu, 15 Aug 2024 00:57:10 -0500
-Subject: [PATCH 110/143] media: i2c: Add imx363 image sensor driver
+Subject: [PATCH 110/142] media: i2c: Add imx363 image sensor driver
 
 Signed-off-by: Joel Selvaraj <foss@joelselvaraj.com>
 ---

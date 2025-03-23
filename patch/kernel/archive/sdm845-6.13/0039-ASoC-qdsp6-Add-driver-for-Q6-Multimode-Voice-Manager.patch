@@ -1,7 +1,7 @@
 From 741b4a078d5b1f258bf9972b54bf2b9f4c929128 Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:10:05 +0200
-Subject: [PATCH 039/143] ASoC: qdsp6: Add driver for Q6 Multimode Voice
+Subject: [PATCH 039/142] ASoC: qdsp6: Add driver for Q6 Multimode Voice
  Manager (q6mvm)
 
 ---

@@ -1,7 +1,7 @@
 From 69ef5fcfe322189753a0d8fe12fa1c2871bd2b86 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Fri, 30 Apr 2021 09:00:42 +0530
-Subject: [PATCH 024/143] arm64: dts: qcom: pmi8998: introduce spmi haptics
+Subject: [PATCH 024/142] arm64: dts: qcom: pmi8998: introduce spmi haptics
 
 Add bindings for Qualcomm SPMI haptics on platforms using pmi8998.
 

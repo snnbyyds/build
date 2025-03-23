@@ -1,7 +1,7 @@
 From 225790d00b999db847814ed140619aefe0fac241 Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Wed, 14 Jun 2023 03:15:27 +0900
-Subject: [PATCH 012/143] Input: synaptics-rmi4 - f55: handle zero electrode
+Subject: [PATCH 012/142] Input: synaptics-rmi4 - f55: handle zero electrode
  count
 
 Some third party ICs claim to support f55 but report an electrode count

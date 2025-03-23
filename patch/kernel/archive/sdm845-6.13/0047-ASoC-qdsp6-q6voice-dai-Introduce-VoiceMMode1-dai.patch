@@ -1,7 +1,7 @@
 From fff45ba76617d6ce1197b62a87eaa42cd5cac728 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Fri, 28 Jan 2022 04:36:10 +0530
-Subject: [PATCH 047/143] ASoC: qdsp6: q6voice-dai: Introduce VoiceMMode1 dai
+Subject: [PATCH 047/142] ASoC: qdsp6: q6voice-dai: Introduce VoiceMMode1 dai
 
 It's used in newer SoCs like SDM845.
 ---

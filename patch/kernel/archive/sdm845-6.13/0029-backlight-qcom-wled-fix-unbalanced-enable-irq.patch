@@ -1,7 +1,7 @@
 From e2d8142cc736e8088ca1bbd1f25e72c3d5cb7f73 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Wed, 30 Mar 2022 09:46:55 +0530
-Subject: [PATCH 029/143] backlight: qcom-wled: fix unbalanced enable irq
+Subject: [PATCH 029/142] backlight: qcom-wled: fix unbalanced enable irq
 
 In Xiaomi Poco F1, the qcom wled driver warns
 [    1.151677] ------------[ cut here ]------------

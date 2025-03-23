@@ -1,7 +1,7 @@
 From 92d26fcde30c2e03b32f43d7a4de1c6b411fbfaa Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <jo@jsfamily.in>
 Date: Sun, 6 Jun 2021 04:17:49 +0530
-Subject: [PATCH 049/143] arm64: dts: qcom: sdm845: Add q6voice APR service
+Subject: [PATCH 049/142] arm64: dts: qcom: sdm845: Add q6voice APR service
  device nodes
 
 arm64: dts: qcom: sdm845: add PDs to q6voice APR

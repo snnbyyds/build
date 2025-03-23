@@ -1,7 +1,7 @@
 From 9a4938f38a1a5c6ab2f47ead56daeb97bf086495 Mon Sep 17 00:00:00 2001
 From: Robert Eckelmann <longnoserob@gmail.com>
 Date: Sun, 31 Mar 2024 14:22:17 +0900
-Subject: [PATCH 107/143] arm64: dts: qcom: sdm845-xiaomi-beryllium: enable
+Subject: [PATCH 107/142] arm64: dts: qcom: sdm845-xiaomi-beryllium: enable
  SLPI
 
 Enable the SLPI dsp on the Xiaomi Pocophone F1 with Qualcom SDM845 SoC.

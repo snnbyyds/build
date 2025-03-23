@@ -1,7 +1,7 @@
 From 47d9ae6db5cbf80416fefd41da08b9427a2a6ffc Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Thu, 30 May 2024 18:51:14 +0200
-Subject: [PATCH 108/143] HACK: drm/panel: s6e3fc2x01: skip reset and keep
+Subject: [PATCH 108/142] HACK: drm/panel: s6e3fc2x01: skip reset and keep
  always-on
 
 I haven't yet found a way to properly reset this panel and actually

@@ -1,7 +1,7 @@
 From 10fbf11314d00713e18096a61fa792cbf2f358af Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Sun, 9 Feb 2025 16:22:24 +0100
-Subject: [PATCH 137/143] fixup! media: i2c: Add imx371 image sensor driver
+Subject: [PATCH 137/142] fixup! media: i2c: Add imx371 image sensor driver
 
 Signed-off-by: David Heidelberg <david@ixit.cz>
 ---

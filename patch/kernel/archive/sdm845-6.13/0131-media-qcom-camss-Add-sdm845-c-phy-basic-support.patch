@@ -1,7 +1,7 @@
 From 144a78c8e0c092c9e9e6adfe3f14664014d46018 Mon Sep 17 00:00:00 2001
 From: David Heidelberg <david@ixit.cz>
 Date: Sat, 7 Dec 2024 23:53:46 -0500
-Subject: [PATCH 131/143] media: qcom: camss: Add sdm845 c-phy basic support
+Subject: [PATCH 131/142] media: qcom: camss: Add sdm845 c-phy basic support
 
 Add in functional logic throughout the code to support C-PHY on SDM845.
 

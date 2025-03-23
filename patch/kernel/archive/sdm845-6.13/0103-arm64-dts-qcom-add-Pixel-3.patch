@@ -1,7 +1,7 @@
 From e24331d35d13f746d84b80f302c24368d7893fc9 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Sun, 25 Jun 2023 01:08:43 +0100
-Subject: [PATCH 103/143] arm64: dts: qcom: add Pixel 3
+Subject: [PATCH 103/142] arm64: dts: qcom: add Pixel 3
 
 Add a devicetree for the Google Pixel 3
 ---

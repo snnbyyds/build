@@ -1,7 +1,7 @@
 From 9d1fa1c6b8ad5041f64e57fefd0619a3e69fa39d Mon Sep 17 00:00:00 2001
 From: methanal <baclofen@tuta.io>
 Date: Wed, 14 Jun 2023 03:15:27 +0900
-Subject: [PATCH 013/143] Input: synaptics-rmi4 - don't do unaligned reads in
+Subject: [PATCH 013/142] Input: synaptics-rmi4 - don't do unaligned reads in
  IRQ context
 
 Some replacement displays include third-party touch ICs which incur a

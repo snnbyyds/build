@@ -1,7 +1,7 @@
 From 7171b847a7ee3ff210800921b92fdcd7580465bc Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Sat, 18 Jun 2022 20:38:15 +0200
-Subject: [PATCH 061/143] arch: arm64: qcom: sdm845-shift-axolotl: improve
+Subject: [PATCH 061/142] arch: arm64: qcom: sdm845-shift-axolotl: improve
  audio routing
 
 Audio on the SHIFT6mq needs to handle 3 microphones (internal bottom,

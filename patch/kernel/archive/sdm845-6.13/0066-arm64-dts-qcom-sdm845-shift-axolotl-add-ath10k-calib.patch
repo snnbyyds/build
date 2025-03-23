@@ -1,7 +1,7 @@
 From 8eedc1d0fa7134aacd9dc5af59ffe3a4a1389497 Mon Sep 17 00:00:00 2001
 From: Dylan Van Assche <me@dylanvanassche.be>
 Date: Sun, 13 Aug 2023 19:24:55 +0200
-Subject: [PATCH 066/143] arm64: dts: qcom: sdm845-shift-axolotl: add ath10k
+Subject: [PATCH 066/142] arm64: dts: qcom: sdm845-shift-axolotl: add ath10k
  calibration variant
 
 SDM845-based SHIFTPHONES SHIFT6mq has its own calibration files

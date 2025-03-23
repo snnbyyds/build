@@ -1,7 +1,7 @@
 From 40b130eeadbad046c4106ad7788f6bfe6c51d3b0 Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:13:01 +0200
-Subject: [PATCH 042/143] ASoC: qdsp6: Add voice call functionality in Q6 Voice
+Subject: [PATCH 042/142] ASoC: qdsp6: Add voice call functionality in Q6 Voice
  driver
 
 q6voice combines the 3 q6voice-related services (q6mvm, q6cvp, q6cvs)

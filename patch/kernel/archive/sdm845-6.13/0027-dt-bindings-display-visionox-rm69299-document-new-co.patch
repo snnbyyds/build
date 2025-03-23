@@ -1,7 +1,7 @@
 From b9b7a490b7ef61ff42c8a4c4ab8c1f75e518c078 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Sun, 23 Jan 2022 17:37:41 +0000
-Subject: [PATCH 027/143] dt-bindings: display: visionox-rm69299: document new
+Subject: [PATCH 027/142] dt-bindings: display: visionox-rm69299: document new
  compatible string
 
 Document a new compatible string for the second panel variant.

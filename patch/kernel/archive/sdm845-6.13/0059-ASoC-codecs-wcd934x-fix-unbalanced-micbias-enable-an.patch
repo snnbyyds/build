@@ -1,7 +1,7 @@
 From 1507da7ae453eeec61de1eb0a5a3ad65268acef6 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Mon, 19 Sep 2022 05:53:20 -0500
-Subject: [PATCH 059/143] ASoC: codecs: wcd934x: fix unbalanced micbias enable
+Subject: [PATCH 059/142] ASoC: codecs: wcd934x: fix unbalanced micbias enable
  and disable
 
 The micbias enable and disable causes the following crash when pluging

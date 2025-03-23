@@ -1,7 +1,7 @@
 From 506107c643d73d0693e5b74ff52cca71433ce262 Mon Sep 17 00:00:00 2001
 From: Stephan Gerhold <stephan@gerhold.net>
 Date: Tue, 28 Apr 2020 16:08:46 +0200
-Subject: [PATCH 038/143] ASoC: qdsp6: Add shared session management for
+Subject: [PATCH 038/142] ASoC: qdsp6: Add shared session management for
  q6voice services
 
 ---

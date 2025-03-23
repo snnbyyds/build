@@ -1,7 +1,7 @@
 From a2397a64ed837a6e466eb6e8eaf1bb4a838d319b Mon Sep 17 00:00:00 2001
 From: Samuel Dionne-Riel <samuel@dionne-riel.com>
 Date: Sun, 20 Jun 2021 23:19:33 -0400
-Subject: [PATCH 104/143] Add back TEXT_OFFSET in the built image...
+Subject: [PATCH 104/142] Add back TEXT_OFFSET in the built image...
 
 Some SDM845-based phones, namely the Pixel 3 (blueline) will fail to
 boot a recent kernel on the Q or R bootloader if this is missing.

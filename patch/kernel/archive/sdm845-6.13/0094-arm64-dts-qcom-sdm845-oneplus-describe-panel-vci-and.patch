@@ -1,7 +1,7 @@
 From 80886ce1d56a17a038a33e380b90dca17a6d7bd2 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Wed, 17 Apr 2024 14:13:40 +0100
-Subject: [PATCH 094/143] arm64: dts: qcom: sdm845-oneplus: describe panel vci
+Subject: [PATCH 094/142] arm64: dts: qcom: sdm845-oneplus: describe panel vci
  and poc supplies
 
 There are two additional supplies used by the panel, both are GPIO

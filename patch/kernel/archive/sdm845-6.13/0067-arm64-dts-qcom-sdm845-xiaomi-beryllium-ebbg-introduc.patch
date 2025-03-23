@@ -1,7 +1,7 @@
 From 446589077d1563b2414d75e8c0eb9848dfe78f4d Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <joelselvaraj.oss@gmail.com>
 Date: Sat, 11 Mar 2023 04:01:43 -0600
-Subject: [PATCH 067/143] arm64: dts: qcom: sdm845-xiaomi-beryllium-ebbg:
+Subject: [PATCH 067/142] arm64: dts: qcom: sdm845-xiaomi-beryllium-ebbg:
  introduce touchscreen support
 
 The EBBG variant uses Focaltech FT8719 touchscreen. Add support for it.

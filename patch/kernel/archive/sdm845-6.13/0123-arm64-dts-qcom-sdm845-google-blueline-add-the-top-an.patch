@@ -1,7 +1,7 @@
 From 907e1ffc2a38f365cf74f932d8f67cfc6741bb37 Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Tue, 27 Aug 2024 20:34:07 -0500
-Subject: [PATCH 123/143] arm64: dts: qcom: sdm845-google-blueline: add the top
+Subject: [PATCH 123/142] arm64: dts: qcom: sdm845-google-blueline: add the top
  and bottom speakers
 
 Signed-off-by: Joel Selvaraj <foss@joelselvaraj.com>

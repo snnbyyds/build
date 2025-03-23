@@ -1,7 +1,7 @@
 From 30f2e70ed116166912cfcfab5f0121377c6607b5 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb@connolly.tech>
 Date: Sat, 12 Jun 2021 14:09:57 +0100
-Subject: [PATCH 025/143] arm64: dts: qcom: sdm845-oneplus-common: add haptics
+Subject: [PATCH 025/142] arm64: dts: qcom: sdm845-oneplus-common: add haptics
 
 Enable the pmi8998 SPMI haptics driver and configure the play rate for the
 hardware.

@@ -1,7 +1,7 @@
 From 7be592f0ceb8b853a963e7dd2150783eec663107 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Sun, 22 Oct 2023 18:03:48 +0100
-Subject: [PATCH 071/143] arm64: dts: qcom: sdm845-shift-axolotl: fix panel
+Subject: [PATCH 071/142] arm64: dts: qcom: sdm845-shift-axolotl: fix panel
  reset orientation
 
 The panel reset GPIO is active low, not active high. Fix it.

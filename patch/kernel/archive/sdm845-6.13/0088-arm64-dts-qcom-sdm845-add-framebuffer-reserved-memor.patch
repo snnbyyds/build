@@ -1,7 +1,7 @@
 From 056d483fdecea610fd0522c9a042a773563052d2 Mon Sep 17 00:00:00 2001
 From: Caleb Connolly <caleb.connolly@linaro.org>
 Date: Tue, 31 Jan 2023 10:23:42 +0000
-Subject: [PATCH 088/143] arm64: dts: qcom: sdm845: add framebuffer reserved
+Subject: [PATCH 088/142] arm64: dts: qcom: sdm845: add framebuffer reserved
  memory
 
 Stick it with the other default reserved regions, all sdm845 devices

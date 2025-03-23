@@ -1,7 +1,7 @@
 From e9a0a5d810f798d8023f7f6ee1900804af9e29ba Mon Sep 17 00:00:00 2001
 From: Joel Selvaraj <foss@joelselvaraj.com>
 Date: Fri, 16 Aug 2024 03:24:56 -0500
-Subject: [PATCH 116/143] arch: arm64: dts: qcom: sdm845-google-blueline: fix
+Subject: [PATCH 116/142] arch: arm64: dts: qcom: sdm845-google-blueline: fix
  serial uart pinctrl
 
 Signed-off-by: Joel Selvaraj <foss@joelselvaraj.com>
