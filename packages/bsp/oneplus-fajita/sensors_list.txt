@@ -1,0 +1,17 @@
+ambient_light
+rgb
+device_orient
+sensor_temperature
+op_motion_detect
+pedometer
+cmc
+psmd
+sig_motion
+tilt
+ambient_light
+rgb
+dpc
+geomag_rv
+gravity
+game_rv
+sar
